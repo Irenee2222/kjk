@@ -4,5 +4,11 @@
 		<title>My Project</title>
 	</head>
 	<body>
+		<h1>This is my project</h1>
+		<p>I've made this project to practice my new skills</p>
+		<p><b> I've been learning coding for 2 days</b></p>
+		<p><u> I really like this event</u></p>
+		<p><i>I want to dedicate myself to be a programmer</i></p>
+	</body>
 </html>
 				
